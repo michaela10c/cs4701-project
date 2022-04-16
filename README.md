@@ -1,5 +1,8 @@
 # Neural Networks: When are they Useful? An Analysis of Three Different Datasets
 
+Authors: Michael Zhou (mgz27), Qiaochu Xiong (qx27), Brian Ling (bjl95)
+
+
 This project illuminates the different types of situations when neural networks are met, as
 analyzed on different datasets. We built a suite of neural networks - different implementations of
 fully-connected neural networks (FCNNs) and convolutional neural networks (CNNs). 
@@ -18,4 +21,3 @@ Video Presentation: https://www.youtube.com/watch?v=rg1PmR6-gYc
 Slides: [CS 4701 Project Slides.pdf](https://github.com/michaela10c/cs4701-project/files/8499175/CS.4701.Project.Slides.pdf)
 
 Final Report: [CS 4701 Final Report.pdf](https://github.com/michaela10c/cs4701-project/files/8499174/CS.4701.Final.Report.pdf)
-
