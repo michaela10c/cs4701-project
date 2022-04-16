@@ -11,6 +11,8 @@ We tested some of these architectures on the following datasets:
 
 We analyzed both the test accuracies and runtimes of each model for each dataset. Our results corroborate that convolutional neural networks (CNNs) work well for image-based datasets (problems including image classification), at the cost of a longer training time due to the complex nature of its architecture. The size of the dataset also contributes to the training time, as a larger dataset implies a longer training time because of a larger input space. Moreover, FCNNs outperform CNNs on datasets that are densely populated by zero. We also noticed that weak correlations between predictors and unbalanced class distributions within the dataset yields a low test accuracy.
 
+Final Project for Cornell course CS 4701 - Practicum in Artificial Intelligence 
+
 Video Presentation: https://www.youtube.com/watch?v=rg1PmR6-gYc 
 
 Slides: [CS 4701 Project Slides.pdf](https://github.com/michaela10c/cs4701-project/files/8499175/CS.4701.Project.Slides.pdf)
