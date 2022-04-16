@@ -1,5 +1,4 @@
-# cs4701-project
-Neural Networks: When are they Useful? An Analysis of Three Different Datasets
+# Neural Networks: When are they Useful? An Analysis of Three Different Datasets
 
 This project illuminates the different types of situations when neural networks are met, as
 analyzed on different datasets. We built a suite of neural networks - different implementations of
